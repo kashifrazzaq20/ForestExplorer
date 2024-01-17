@@ -4,7 +4,7 @@ Explore the beauty of nature with ForestExplorer, a simple website featuring stu
 
 ## Preview
 
-[![ForestExplorer Preview](link-to-preview-image)](https://kashifrazzaq20.github.io/ForestExplorer/)
+[![ForestExplorer Preview](https://raw.githubusercontent.com/kashifrazzaq20/ForestExplorer/main/demo.PNG)](https://kashifrazzaq20.github.io/ForestExplorer/)
 
 [Live Demo](https://kashifrazzaq20.github.io/ForestExplorer/)
 
